@@ -11,6 +11,9 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
         <td colspan="2">
         <strong><samp>Stats:</samp></strong>
         </td>
+        <td colspan="2">
+        <strong><samp>Stats:</samp></strong>
+        </td>
     </tr>
     <tr>
         <td colspan="2" rowspan="2">
@@ -18,5 +21,12 @@ I have been dedicating at least four hours a day to self-learning Swift and impr
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=selinguz&hide_border=true&theme=radical">
         </a>
         </td>
+
+      <td colspan="2" rowspan="2">
+        <a href="https://github-readme-stats.vercel.app/api?username=selinguz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+        <img src="https://github-readme-stats.vercel.app/api?username=selinguz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true">
+        </a>
+        </td>
     </tr>
 </table>
+
