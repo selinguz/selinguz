@@ -3,7 +3,8 @@
 <h1 align="center">
   Hi everyone, my name is selin
 </h1> 
-I have been dedicating at least four hours a day to self-learning Swift and improving my skills in iOS development. I am eager to join a work environment where I can collaborate and learn from others. I am confident that my dedication and passion for software development will allow me to contribute to a team and continue to grow as a developer.
+I have been studying at least two hours a day to self-learning Flutter and improving my skills in programming. 
+I am trying to learn from others and grow as a developer.
        <div>
         <a href="https://github-readme-streak-stats.herokuapp.com/?user=selinguz&hide_border=true&theme=radical">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=selinguz&hide_border=true&theme=radical">
