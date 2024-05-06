@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Selin Namak.</h1>
-
 <h3 align="center">A learner of software developer from Turkey. I have been studying different languages mentioned above since 2019. I am working as a freelancer and trying to learn something different in this area every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selinguz&label=Profile%20views&color=0e75b6&style=flat" alt="selinguz" /> </p>
@@ -12,9 +11,9 @@
 
 - 📝 I regularly write articles on [theblankbookofme.blogspot.com](theblankbookofme.blogspot.com)
 
-- 📫 You can reach me **selinnamak@icloud.com**
+- 📫 How to reach me **selinnamak@icloud.com**
 
-- ⚡ Fun fact: **I have a son, one-year-old :)**
+- ⚡ Fun fact **I have a son, one-year-old :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -28,7 +27,7 @@
 <a href="https://instagram.com/joyfullearningzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joyfullearningzone" height="30" width="40" /></a>
 <a href="https://medium.com/@selinnamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@selinnamak" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/joyfullearningzone16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joyfullearningzone16" height="30" width="40" /></a>
-<a href="/https://theblankbookofme.blogspot.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://theblankbookofme.blogspot.com" height="30" width="40" /></a>
+<a href="/https://theblankbookofme.blogspot.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://theblankbookofme.blogspot.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
