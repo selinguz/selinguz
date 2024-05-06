@@ -22,11 +22,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/selinguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selinguzel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/selinnamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selinnamak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/selin-namak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="selin-namak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21605071" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21605071" height="30" width="40" /></a>
 <a href="https://instagram.com/joyfullearningzone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joyfullearningzone" height="30" width="40" /></a>
 <a href="https://medium.com/@selinnamak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@selinnamak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/joyfullearningzone16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="joyfullearningzone16" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@joyfullearningzone16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@joyfullearningzone16" height="30" width="40" /></a>
 <a href="/https://theblankbookofme.blogspot.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://theblankbookofme.blogspot.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
 </p>
 
