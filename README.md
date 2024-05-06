@@ -6,17 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/selinguzel" target="blank"><img src="https://img.shields.io/twitter/follow/selinguzel?logo=twitter&style=for-the-badge" alt="selinguzel" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 - 🔭 I’m currently working on [FlashCards app.](https://play.google.com/store/apps/details?id=com.cemnamak.flash_cards)
 
 - 🌱 I’m currently learning **Flutter and Unity.**
 
 - 📝 I regularly write articles on [theblankbookofme.blogspot.com](theblankbookofme.blogspot.com)
 
-- 📫 How to reach me **selinnamak@icloud.com**
+- 📫 You can reach me **selinnamak@icloud.com**
 
-- ⚡ Fun fact **I have a son, one-year-old :)**
+- ⚡ Fun fact: **I have a son, one-year-old :)**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
