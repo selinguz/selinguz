@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Selin Namak.</h1>
+
 <h3 align="center">A learner of software developer from Turkey. I have been studying different languages mentioned above since 2019. I am working as a freelancer and trying to learn something different in this area every day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selinguz&label=Profile%20views&color=0e75b6&style=flat" alt="selinguz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/selinguzel" target="blank"><img src="https://img.shields.io/twitter/follow/selinguzel?logo=twitter&style=for-the-badge" alt="selinguzel" /></a> </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on [FlashCards app.](https://play.google.com/store/apps/details?id=com.cemnamak.flash_cards)
 
